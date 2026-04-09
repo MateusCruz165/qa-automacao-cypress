@@ -1,0 +1,24 @@
+{
+  "name": "qa-automacao-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusCruz165/qa-automacao-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MateusCruz165/qa-automacao-cypress/issues"
+  },
+  "homepage": "https://github.com/MateusCruz165/qa-automacao-cypress#readme",
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
